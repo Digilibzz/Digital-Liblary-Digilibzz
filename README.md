@@ -1,3 +1,3 @@
 # Digilibzz
 
-![Alt](https://repobeats.axiom.co/api/embed/74cfe6471936fc73440510f7504da2156d7442f2.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/aea8bf915eb27d1b8226d9169f342af6cb2df699.svg "Repobeats analytics image")
