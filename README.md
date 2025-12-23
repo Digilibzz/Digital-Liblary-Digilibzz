@@ -129,7 +129,7 @@ digilibz/
 
 ## 🤝 Kontribusi
 
-Kontribusi selalu diterima! Silakan buat *Pull Request* atau laporkan masalah (issue) jika Anda menemukan *bug*.
+Kontribusi selalu diterima! Silakan buat *Pull Request* atau laporkan masalah (issue) jika menemukan *bug*.
 
 ## 📄 Lisensi
 
