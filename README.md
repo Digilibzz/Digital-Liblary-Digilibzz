@@ -134,5 +134,3 @@ Kontribusi selalu diterima! Silakan buat *Pull Request* atau laporkan masalah (i
 ## 📄 Lisensi
 
 Proyek ini dilindungi di bawah lisensi yang tercantum dalam file `LICENSE` (Lihat file LICENSE untuk detailnya).
-
-```
