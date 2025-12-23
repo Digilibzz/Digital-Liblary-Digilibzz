@@ -1,6 +1,6 @@
 # Digilibz - Digital Library Management System
 
-**Digilibz** adalah platform perpustakaan digital modern yang dirancang untuk memudahkan pengelolaan koleksi buku, transaksi peminjaman, dan interaksi pengguna. Aplikasi ini memisahkan antarmuka untuk Pengguna (Mahasiswa/Dosen) dan Administrator, serta dilengkapi dengan fitur ulasan dan rekomendasi buku berbasis AI.
+**Digilibz** adalah platform perpustakaan digital modern yang dirancang untuk mempermudah pengelolaan koleksi buku, transaksi peminjaman, serta interaksi antara pengguna dan administrator. Dengan antarmuka yang ramah pengguna dan fitur canggih, Digilibz memungkinkan mahasiswa dan dosen untuk mengakses buku dengan mudah, memberikan ulasan, dan mendapatkan rekomendasi buku berbasis AI. Untuk administrator, Digilibz menyediakan alat yang efisien untuk mengelola buku, pengguna, dan transaksi, membuat manajemen perpustakaan lebih terorganisir dan otomatis.
 
 ## 🚀 Teknologi yang Digunakan
 
