@@ -31,7 +31,7 @@ Proyek ini dibangun menggunakan arsitektur *monorepo* (backend dan frontend dala
 * **Otentikasi:** Register dan Login (Role based).
 * **Koleksi Buku:** Mencari, memfilter, dan melihat detail buku.
 * **Peminjaman:** Sistem "Keranjang" peminjaman dan pembuatan Invoice peminjaman.
-* **Ulasan:** Memberikan rating dan komentar pada buku.
+* **Ulasan:** Memberikan rating dan komentar pada buku untuk berbagi opini.
 * **Personalisasi:** Bookmark buku dan rekomendasi buku.
 * **Riwayat:** Melihat riwayat transaksi peminjaman dan pengembalian.
 * **AI Summary:** Mendapatkan ringkasan isi buku menggunakan AI.
