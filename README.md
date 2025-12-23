@@ -38,10 +38,10 @@ Proyek ini dibangun menggunakan arsitektur *monorepo* (backend dan frontend dala
 
 ### 🛡️ Administrator
 * **Dashboard Statistik:** Grafik peminjaman, total buku, dan aktivitas pengguna.
-* **Manajemen Buku:** Tambah, edit, dan hapus data buku.
+* **Manajemen Buku:** Menambah, mengedit, dan menghapus data buku dengan mudah.
 * **Manajemen User:** Mengelola data pengguna (Mahasiswa/Dosen/Admin).
-* **Manajemen Transaksi:** Validasi peminjaman dan proses pengembalian buku.
-* **Laporan:** Memantau denda dan status buku.
+* **Manajemen Transaksi:** memvalidasi peminjaman dan proses pengembalian buku.
+* **Laporan:** Memantau status buku dan denda transaksi secara efisien.
 
 ---
 
